@@ -1,0 +1,11 @@
+<module>
+
+	<!-- Required modules -->
+	<inherits name="com.google.gwt.user.User" />
+
+	<!-- Source paths. -->
+	<source path="client" />
+
+	<!-- Entry point -->
+	<entry-point class="com.bytebybyte.gwt.fastclick.client.FastClickLibConfigurerEntryPoint" />
+</module>
